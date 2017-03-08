@@ -1,3 +1,9 @@
+#插入代码片段
+\<!DOCTYPE html><br>
+\<html><br>
+\<header>\</header><br>
+\</html>
+
 #插入图片
 ![](http://www.baidu.com/img/bdlogo.gif)
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
