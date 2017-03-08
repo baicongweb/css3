@@ -1,4 +1,10 @@
-
+#插入图片
+![](http://www.baidu.com/img/bdlogo.gif)
+![baidu](http://www.baidu.com/img/bdlogo.gif)
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+#给图片加上超链接
+ [![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
 #缩进
 >数据结构  
 >>树  
